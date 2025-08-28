@@ -482,8 +482,8 @@ export default function Index() {
               variant="outline"
               className="text-lg px-8 border-white text-white hover:bg-white hover:text-blue-600 bg-transparent"
             >
-              View Portfolio
-            </Button>
+             <a href="/portfolio">View Profile</a>
+             </Button>
           </div>
         </div>
       </section>
